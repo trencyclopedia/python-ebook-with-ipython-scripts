@@ -37,6 +37,21 @@ host projects related with python scripts
     * [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch13.ipynb)
     * [Chapter 14: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
     * [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
-
-
+    
+    
+    
+ 
 4. 
+          
+# Machine learning and artificial intelligence
+host projects related with python scripts    
+
+1.[Awesome Machine Learning] https://github.com/josephmisiti/awesome-machine-learning
+
+    A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+
+2.[Awesome TensorFlow] https://github.com/jtoy/awesome-tensorflow
+
+    A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
+    
+    
